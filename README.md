@@ -1,3 +1,5 @@
+Tester: Khdz36 ( Võ Đăng Khôi )
+
 # TralalaFish
 
 **TralalaFish** is a UCI chess engine written in C++20 for Windows x64.
