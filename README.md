@@ -152,7 +152,7 @@ testing:
   community.
 - **Sunfish** was used as a test opponent.
 
-See the `LICENSE` file on the release page (if present) for the terms of use.
+and NO OPEN SOURCE
 
 ---
 
